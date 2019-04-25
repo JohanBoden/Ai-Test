@@ -1,0 +1,10 @@
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.Properties.Resources.resources
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\AITest\AITest\bin\Debug\AITest.exe.config
+C:\Users\johan\source\repos\AITest\AITest\bin\Debug\AITest.exe
+C:\Users\johan\source\repos\AITest\AITest\bin\Debug\AITest.pdb
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.exe
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.pdb
+C:\Users\johan\source\repos\AITest\AITest\obj\Debug\AITest.Canvas.resources
